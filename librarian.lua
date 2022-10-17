@@ -391,24 +391,24 @@ local knowledge =
           [df.knowledge_scholar_flags_4.history_form_alternate_history] =                   "History, Form, Alternate history",
           [df.knowledge_scholar_flags_4.history_sourcing_basic_archaeology] =               "History, Sourcing, Archaeology",
           [df.knowledge_scholar_flags_4.history_form_treatise_on_tech_evolution] =          "History, Form, Treatise on tech evolution"},
-   [5] = {[df.knowledge_scholar_flags_5.astronomy_phases_of_the_moon] =                     "Astronomy, -, Phases of the moon",
-          [df.knowledge_scholar_flags_5.astronomy_summer_winter_moon] =                     "Astronomy, -, Summer winter moon",
-          [df.knowledge_scholar_flags_5.astronomy_path_of_the_moon] =                       "Astronomy, -, Path of the moon",
-          [df.knowledge_scholar_flags_5.astronomy_tides_and_the_moon] =                     "Astronomy, -, Tides and the moon",
-          [df.knowledge_scholar_flags_5.astronomy_height_of_tides_vs_moon_and_sun] =        "Astronomy, -, Tides and the moon",
-          [df.knowledge_scholar_flags_5.astronomy_summer_winter_sun] =                      "Astronomy, -, Summer winter sun",
-          [df.knowledge_scholar_flags_5.astronomy_relationship_between_lunar_solar_year] =  "Astronomy, -, Relationship between lunar solar year",
-          [df.knowledge_scholar_flags_5.astronomy_daylight_variation_with_solar_year] =     "Astronomy, -, Daylight variation with solar year",
-          [df.knowledge_scholar_flags_5.astronomy_geocentric_model] =                       "Astronomy, -, Geocentric model",
-          [df.knowledge_scholar_flags_5.astronomy_heliocentric_model] =                     "Astronomy, -, Heliocentric model",
-          [df.knowledge_scholar_flags_5.astronomy_dates_of_lunar_and_solar_eclipses] =      "Astronomy, -, Dates of lunar and solar eclipses",
-          [df.knowledge_scholar_flags_5.astronomy_star_charts] =                            "Astronomy, -, Astrography",
-          [df.knowledge_scholar_flags_5.astronomy_star_catalogues_100] =                    "Astronomy, -, Star catalogues 100",
-          [df.knowledge_scholar_flags_5.astronomy_star_catalogues_1000] =                   "Astronomy, -, Star catalogues 1000",
-          [df.knowledge_scholar_flags_5.astronomy_star_color_classification] =              "Astronomy, -, Stellar Spectroscopy",
-          [df.knowledge_scholar_flags_5.astronomy_star_magnitude_classification] =          "Astronomy, -, Star magnitude classification",
-          [df.knowledge_scholar_flags_5.astronomy_shape_of_the_world] =                     "Astronomy, -, Shape of the world",
-          [df.knowledge_scholar_flags_5.astronomy_precession_of_equinoxes] =                "Astronomy, -, Precession of equinoxes",
+   [5] = {[df.knowledge_scholar_flags_5.astronomy_phases_of_the_moon] =                     "Astronomy, Phases of the moon",
+          [df.knowledge_scholar_flags_5.astronomy_summer_winter_moon] =                     "Astronomy, Summer winter moon",
+          [df.knowledge_scholar_flags_5.astronomy_path_of_the_moon] =                       "Astronomy, Path of the moon",
+          [df.knowledge_scholar_flags_5.astronomy_tides_and_the_moon] =                     "Astronomy, Tides and the moon",
+          [df.knowledge_scholar_flags_5.astronomy_height_of_tides_vs_moon_and_sun] =        "Astronomy, Tides and the moon",
+          [df.knowledge_scholar_flags_5.astronomy_summer_winter_sun] =                      "Astronomy, Summer winter sun",
+          [df.knowledge_scholar_flags_5.astronomy_relationship_between_lunar_solar_year] =  "Astronomy, Relationship between lunar solar year",
+          [df.knowledge_scholar_flags_5.astronomy_daylight_variation_with_solar_year] =     "Astronomy, Daylight variation with solar year",
+          [df.knowledge_scholar_flags_5.astronomy_geocentric_model] =                       "Astronomy, Geocentric model",
+          [df.knowledge_scholar_flags_5.astronomy_heliocentric_model] =                     "Astronomy, Heliocentric model",
+          [df.knowledge_scholar_flags_5.astronomy_dates_of_lunar_and_solar_eclipses] =      "Astronomy, Dates of lunar and solar eclipses",
+          [df.knowledge_scholar_flags_5.astronomy_star_charts] =                            "Astronomy, Astrography",
+          [df.knowledge_scholar_flags_5.astronomy_star_catalogues_100] =                    "Astronomy, Star catalogues 100",
+          [df.knowledge_scholar_flags_5.astronomy_star_catalogues_1000] =                   "Astronomy, Star catalogues 1000",
+          [df.knowledge_scholar_flags_5.astronomy_star_color_classification] =              "Astronomy, Stellar Spectroscopy",
+          [df.knowledge_scholar_flags_5.astronomy_star_magnitude_classification] =          "Astronomy, Star magnitude classification",
+          [df.knowledge_scholar_flags_5.astronomy_shape_of_the_world] =                     "Astronomy, Shape of the world",
+          [df.knowledge_scholar_flags_5.astronomy_precession_of_equinoxes] =                "Astronomy, Precession of equinoxes",
           [df.knowledge_scholar_flags_5.astronomy_method_empirical_observation] =           "Astronomy, Method, Empirical observation",
           [df.knowledge_scholar_flags_5.astronomy_method_path_models] =                     "Astronomy, Method, Path models"},
    [6] = {[df.knowledge_scholar_flags_6.naturalist_method_dissection] =                     "Naturalist, Method, Dissection",
@@ -432,7 +432,7 @@ local knowledge =
           [df.knowledge_scholar_flags_7.chemistry_chemicals_adhesives] =                    "Chemistry, Chemicals, Adhesives",
           [df.knowledge_scholar_flags_7.chemistry_laboratory_blast_furnace] =               "Chemistry, Laboratory, Blast furnace",
           [df.knowledge_scholar_flags_7.chemistry_laboratory_alembic] =                     "Chemistry, Laboratory, Alembic",
-          [df.knowledge_scholar_flags_7.chemistry_laboratory_theory_of_liquid_liquid_extraction] = "Chemistry, Laboratory, Theory of liquid liquid extraction",
+          [df.knowledge_scholar_flags_7.chemistry_laboratory_theory_of_liquid_liquid_extraction] = "Chemistry, Laboratory, Theory of liquid-liquid extraction",
           [df.knowledge_scholar_flags_7.chemistry_laboratory_theory_of_distillation] =      "Chemistry, Laboratory, Theory of distillation",
           [df.knowledge_scholar_flags_7.chemistry_laboratory_theory_of_evaporation] =       "Chemistry, Laboratory, Theory of evaporation",
           [df.knowledge_scholar_flags_7.chemistry_classification_alkali_and_acids] =        "Chemistry, Classification, Alkali and acids",
@@ -460,9 +460,9 @@ local knowledge =
           [df.knowledge_scholar_flags_8.geography_cartography_grid_system] =                "Geography, Cartography, Grid system",
           [df.knowledge_scholar_flags_8.geography_cartography_distance_scale] =             "Geography, Cartography, Distance scale",
           [df.knowledge_scholar_flags_8.geography_cartography_height_measurements] =        "Geography, Cartography, Height measurements",
-          [df.knowledge_scholar_flags_8.geography_method_economic_data_collection] =        "Geography, Methods, Econometrics",
+          [df.knowledge_scholar_flags_8.geography_method_economic_data_collection] =        "Methods, Econometrics",
           [df.knowledge_scholar_flags_8.geography_cartography_economic] =                   "Geography, Cartography, Economic",
-          [df.knowledge_scholar_flags_8.geography_form_atlas] =                             "Geography, Form, Atlas",
+          [df.knowledge_scholar_flags_8.geography_form_atlas] =                             "Form, Atlas",
           [df.knowledge_scholar_flags_8.geography_theory_delta_formation] =                 "Geography, Theory, Delta formation",
           [df.knowledge_scholar_flags_8.geography_theory_wind_patterns] =                   "Geography, Theory, Anemology (Wind patterns)",
           [df.knowledge_scholar_flags_8.geography_theory_origin_of_rainfall_from_evap_condense] = "Geography, Theory, Origin of rainfall from evap condense",
@@ -535,13 +535,13 @@ local knowledge =
            [df.knowledge_scholar_flags_10.medicine_method_hospital_lab] =                   "Medicine, Method, Hospital lab",
            [df.knowledge_scholar_flags_10.medicine_method_medical_school] =                 "Medicine, Method, Medical school"},
    [11] = {[df.knowledge_scholar_flags_11.medicine_method_asylum_for_mentally_ill] =        "Medicine, Method, Asylum for mentally ill"},
-   [12] = {[df.knowledge_scholar_flags_12.engineering_horology_shadow_clock] =              "Engineering, Horology, Shadow clock",
-           [df.knowledge_scholar_flags_12.engineering_horology_water_clock] =               "Engineering, Horology, Water clock",
-           [df.knowledge_scholar_flags_12.engineering_horology_conical_water_clock] =       "Engineering, Horology, Conical water clock",
-           [df.knowledge_scholar_flags_12.engineering_horology_water_clock_reservoir] =     "Engineering, Horology, Water clock reservoir",
-           [df.knowledge_scholar_flags_12.engineering_horology_astrarium] =                 "Engineering, Horology, Astrarium",
-           [df.knowledge_scholar_flags_12.engineering_horology_hourglass] =                 "Engineering, Horology, Hourglass",
-           [df.knowledge_scholar_flags_12.engineering_horology_mechanical_clock] =          "Engineering, Horology, Mechanical Clock",
+   [12] = {[df.knowledge_scholar_flags_12.engineering_horology_shadow_clock] =              "Horology, Shadow clock",
+           [df.knowledge_scholar_flags_12.engineering_horology_water_clock] =               "Horology, Water clock",
+           [df.knowledge_scholar_flags_12.engineering_horology_conical_water_clock] =       "Horology, Conical water clock",
+           [df.knowledge_scholar_flags_12.engineering_horology_water_clock_reservoir] =     "Horology, Water clock reservoir",
+           [df.knowledge_scholar_flags_12.engineering_horology_astrarium] =                 "Horology, Astrarium",
+           [df.knowledge_scholar_flags_12.engineering_horology_hourglass] =                 "Horology, Hourglass",
+           [df.knowledge_scholar_flags_12.engineering_horology_mechanical_clock] =          "Horology, Mechanical Clock",
            [df.knowledge_scholar_flags_12.engineering_machine_theory_of_pulley] =           "Engineering, Machine, Theory of pulley",
            [df.knowledge_scholar_flags_12.engineering_machine_pulley] =                     "Engineering, Machine, Pulley",
            [df.knowledge_scholar_flags_12.engineering_machine_theory_of_screw] =            "Engineering, Machine, Theory of screw",
@@ -915,7 +915,7 @@ function Librarian ()
         if unit and
            unit.civ_id == civ_id and
            not unit.flags2.visitor then
-          local author = dfhack.TranslateName (hf.name, true) .. "/" .. dfhack.TranslateName (hf.name, false)
+          local author = dfhack.TranslateName (hf.name, false)-- .. "/" .. dfhack.TranslateName (hf.name, false)
           local found = false
 
           for k, res in ipairs (Result) do
@@ -1083,7 +1083,7 @@ function Librarian ()
     local hf = df.historical_figure.find (Id)
     
     if hf then
-      return dfhack.TranslateName (hf.name, true) .. "/" .. dfhack.TranslateName (hf.name, false)
+      return dfhack.TranslateName (hf.name, false) .. " \"" .. dfhack.TranslateName (hf.name, true) .. "\""
       
     else
       return "<Unknown histfig>"
@@ -1096,7 +1096,7 @@ function Librarian ()
     local entity = df.historical_entity.find (Id)
       
     if entity then
-      return dfhack.TranslateName (entity.name, true)-- .. "/" ..
+      return dfhack.TranslateName (entity.name, false)-- .. "/" ..
              --dfhack.TranslateName (entity.name, false)
              
     else
@@ -1110,8 +1110,8 @@ function Librarian ()
     local site = df.world_site.find (Id)
       
     if site then
-      return dfhack.TranslateName (site.name, true) .. "/" ..
-             dfhack.TranslateName (site.name, false)
+      return dfhack.TranslateName (site.name, false) .. " \"" ..
+             dfhack.TranslateName (site.name, true) .. "\""
              
     else
       return "<Unknown site>"
@@ -1125,8 +1125,8 @@ function Librarian ()
     
     if site then
       return df.world_site_type [site.type] .. " " ..
-             dfhack.TranslateName (site.name, true) .. "/" ..
-             dfhack.TranslateName (site.name, false)
+             dfhack.TranslateName (site.name, false) .. " \"" ..
+             dfhack.TranslateName (site.name, true) .. "\""
              
     else
       return "<Unknown site>"
@@ -1139,8 +1139,8 @@ function Librarian ()
     local region = df.world_region.find (Id)
       
     if region then
-      return dfhack.TranslateName (region.name, true) .. "/" ..
-             dfhack.TranslateName (region.name, false)
+      return dfhack.TranslateName (site.name, false) .. " \"" ..
+             dfhack.TranslateName (site.name, true) .. "\""
              
     else
       return "<Unknown region>"
@@ -1153,8 +1153,8 @@ function Librarian ()
     local region = df.world_underground_region.find (Id)
       
     if region then
-      return dfhack.TranslateName (region.name, true) .. "/" ..
-             dfhack.TranslateName (region.name, false)
+      return dfhack.TranslateName (site.name, false) .. " \"" ..
+             dfhack.TranslateName (site.name, true) .. "\""
              
     else
       return "<Unknown underground region>"
@@ -1179,52 +1179,62 @@ function Librarian ()
 
   --============================================================
 
-  function wrap (str)
-    local screen_width, screen_height = dfhack.screen.getWindowSize ()
-    local indent = 11
-    local length = screen_width - 54 - 1
-    local rem = str
-    local first = true
-    local result = ""
-    
-    while true do
-      if first then
-        if string.len (rem) <= length + 1 then  --  + 1 as the newline at the end doesn't count
-          result = rem
-          break
-          
-        else
-          result = string.sub (rem, 1, length) .. "\n"
-          rem = string.sub (rem, length + 1, string.len (rem))
-          first = false
-        end
-              
-      else
-        if string.len (rem) <= length - indent + 1 then  --  + 1 as the newline at the end doesn't count
-           result = result .. string.rep (" ", indent) .. rem
-           break
-           
-        else
-          result = result .. string.rep (" ", indent) .. string.sub (rem, 1, length - indent)
-          rem = string.sub (rem, length - indent + 1, string.len (rem))
-        end
+  function splittokens(s, delim)
+    local res = {}
+    if delim == nil then
+      delim = "%s"
+    end
+    pattern = "([^"..delim.."]+)"
+    if #s > 0 then
+      for w in s:gmatch(pattern) do
+        res[#res+1] = w
       end
     end
+    return res
+  end
+
+  function wrap (str, left_margin)
+    local screen_width, screen_height = dfhack.screen.getWindowSize ()
+    local linewidth = screen_width - left_margin - 1
+    local spaceleft = linewidth
+    local rem = str
+    local sep_index = 0
+    local res = {}
+    local res_line = {}
     
-    return result
+    for _, line in ipairs(splittokens(str, "\n")) do
+      spaceleft = linewidth
+      res_line = {}
+      for _, word in ipairs(splittokens(line, "%s")) do
+        if #word + 1 > spaceleft then
+          table.insert(res, table.concat(res_line, " "))
+          res_line = {word}
+          spaceleft = linewidth - #word
+        else
+          table.insert(res_line, word)
+          spaceleft = spaceleft - (#word + 1)
+        end
+      end
+      table.insert(res, table.concat(res_line, " "))
+      table.insert(res, "")
+    end
+    return table.concat(res, '\n')
   end
   
   --============================================================
 
-  function Produce_Details (element)
+  function Produce_Details (element, left_margin)
+    if not left_margin then
+      left_margin = 48
+    end
     if not element then
-      return ""
+      return "Title :\nCategory :\nReference:\nAuthor :\nLocal :"
     end
     
     local content = df.written_content.find (element [1])
     
     if not content then
-      return ""
+      return "Title :\nCategory :\nReference:\nAuthor :\nLocal :"
     end
     
     local title = content.title
@@ -1235,8 +1245,8 @@ function Librarian ()
       title = "<Untitled>"
     end
 
-    local text = {wrap ("Title    : " .. title .. "\n"),
-                  wrap ("Category : " .. df.written_content_type [content.type] .. "\n")}
+    local text = {wrap ("Title: " .. title .. "\n", left_margin),
+                  wrap ("Category: " .. df.written_content_type [content.type] .. "\n", left_margin)}
                   
     
     for i, ref in ipairs (content.refs) do
@@ -1270,7 +1280,7 @@ function Librarian ()
          --  ref._type == df.general_ref_poetic_formst or
          --  ref._type == df.general_ref_musical_formst or
          --  ref._type == df.general_ref_dance_formst then
-        table.insert (text, wrap ("Reference: Unresolved " .. tostring (ref._type) .. " information\n"))
+        table.insert (text, wrap ("Reference: Unresolved " .. tostring (ref._type) .. " information\n", left_margin))
         
       elseif ref._type == df.general_ref_entity then
         local entity = df.historical_entity.find (ref.entity_id)
@@ -1285,7 +1295,7 @@ function Librarian ()
         end
           
         if entity.name then
-          name = dfhack.TranslateName (entity.name, true) .. "/" .. dfhack.TranslateName (entity.name, false)
+          name = dfhack.TranslateName (entity.name, false)-- .. "/" .. dfhack.TranslateName (entity.name, false)
           
         else
           name "<unknown name>"
@@ -1293,10 +1303,10 @@ function Librarian ()
         
         if entity then
           table.insert (text, wrap ("Reference: The " ..  race .. " " ..
-                                    df.historical_entity_type [entity.type] .. " " .. name .. " information\n"))
+                                    df.historical_entity_type [entity.type] .. " " .. name .. " information\n", left_margin))
             
         else
-          table.insert (text, wrap ("Reference: Unknown entity (culled?) information\n"))
+          table.insert (text, wrap ("Reference: Unknown entity (culled?) information\n", left_margin))
         end
        
       elseif ref._type == df.general_ref_interactionst then       
@@ -1304,14 +1314,14 @@ function Librarian ()
         
         for i, str in ipairs (df.global.world.raws.interactions [ref.interaction_id].str) do
           if str.value:find ("IS_NAME:", 1) ~= nil then
-            table.insert (text, wrap ('Interaction reference: "' .. str.value:sub (str.value:find (":", 1) + 1, str.value:len () - 1) .. '"\n'))
+            table.insert (text, wrap ('Interaction reference: "' .. str.value:sub (str.value:find (":", 1) + 1, str.value:len () - 1) .. '"\n', left_margin))
             resolved = true
             break
           end
         end
         
         if not resolved then
-          table.insert (text, wrap ("Reference: unresolved Interaction information\n"))
+          table.insert (text, wrap ("Reference: unresolved Interaction information\n", left_margin))
         end
         
       elseif ref._type == df.general_ref_historical_eventst then
@@ -1430,13 +1440,13 @@ function Librarian ()
              event._type == df.history_event_entity_fled_sitest or            
              event._type == df.history_event_tactical_situationst or            
              event._type == df.history_event_squad_vs_squadst then            
-            table.insert (text, wrap ("Reference: Unsupported " .. tostring (event._type) .. " historical event information\n"))
+            table.insert (text, wrap ("Reference: Unsupported " .. tostring (event._type) .. " historical event information\n", left_margin))
 
           elseif event._type == df.history_event_created_sitest then
             table.insert (text, wrap ("Reference: " .. Entity_Name_Of (event.civ) .. " local government " ..
                                       Entity_Name_Of (event.site_civ) .. " founded " ..
                                       Site_Name_Of (event.site) .. " led by " ..
-                                      HF_Name_Of (event.builder_hf) .. "\n"))
+                                      HF_Name_Of (event.builder_hf) .. "\n", left_margin))
             
           elseif event._type == df.history_event_add_hf_entity_linkst then
             local position = ""
@@ -1450,35 +1460,35 @@ function Librarian ()
               
             table.insert (text, wrap ("Reference: " .. HF_Name_Of (event.histfig) .. " " ..
                                       df.histfig_entity_link_type [event.link_type] .. " " ..
-                                      Entity_Name_Of (event.civ) .. position .. "\n"))
+                                      Entity_Name_Of (event.civ) .. position .. "\n", left_margin))
             
           elseif event._type == df.history_event_created_buildingst then
             table.insert (text, wrap ("Reference: " .. Entity_Name_Of (event.civ) .. " created " ..
                                       df.abstract_building_type [event.structure] .. " in " ..  --### May be reference to buildings at site instead...
                                       Site_Name_Of (event.site) .. " by " ..
-                                      HF_Name_Of (event.builder_hf) .. "\n"))
+                                      HF_Name_Of (event.builder_hf) .. "\n", left_margin))
             
           elseif event._type == df.history_event_war_peace_acceptedst then
             table.insert (text, wrap ("Reference: " .. Entity_Name_Of (event.source) .. " " ..
                                       df.meeting_topic [event.topic] .. " with " ..
                                       Entity_Name_Of (event.destination) .. " at " ..
-                                      Site_Name_Of (event.site) .. " accepted\n"))
+                                      Site_Name_Of (event.site) .. " accepted\n", left_margin))
           
           elseif event._type == df.history_event_war_peace_rejectedst then
             table.insert (text, wrap ("Reference: " .. Entity_Name_Of (event.source) .. " " ..
                                       df.meeting_topic [event.topic] .. " with " ..
                                       Entity_Name_Of (event.destination) .. " at " ..
-                                      Site_Name_Of (event.site) .. " rejected\n"))
+                                      Site_Name_Of (event.site) .. " rejected\n", left_margin))
             
           elseif event._type == df.history_event_hf_destroyed_sitest then
             table.insert (text, wrap ("Reference: " .. HF_Name_Of (event.attacker_hf) .. " destroyed " ..
                                       Site_Name_Of (event.site) .. " governed by\n           " ..
                                       Entity_Name_Of (event.site_civ) .. " belonging to " ..
-                                      Entity_Name_Of (event.defender_civ) .. "\n"))
+                                      Entity_Name_Of (event.defender_civ) .. "\n", left_margin))
           
           elseif event._type == df.history_event_add_hf_hf_linkst then
             table.insert (text, wrap ("Reference: Added " .. HF_Name_Of (event.hf) .. " " .. df.histfig_hf_link_type [event.type] .. 
-                                      " vs " .. HF_Name_Of (event.hf_target) .. "\n"))
+                                      " vs " .. HF_Name_Of (event.hf_target) .. "\n", left_margin))
               
           elseif event._type == df.history_event_change_hf_statest then
             local state = " <Unknown state>"
@@ -1498,17 +1508,17 @@ function Librarian ()
               
             table.insert (text, wrap ("Reference: " .. HF_Name_Of (event.hfid) .. state .. " " ..
                                       History_Location_Name_Of (event.site, event.region, event.layer) .. 
-                                      " because of " .. df.history_event_reason [event.reason] .. "\n"))
+                                      " because of " .. df.history_event_reason [event.reason] .. "\n", left_margin))
               
           elseif event._type == df.history_event_change_hf_jobst then
             table.insert (text, wrap ("Reference: " .. HF_Name_Of (event.hfid) .. " changed job from " .. df.profession [event.old_job] .. " to " .. 
-                                      df.profession [event.new_job] .. " in " .. History_Location_Name_Of (event.site, event.region, event.layer) .. "\n"))
+                                      df.profession [event.new_job] .. " in " .. History_Location_Name_Of (event.site, event.region, event.layer) .. "\n", left_margin))
               
           elseif event._type == df.history_event_war_plundered_sitest then
             table.insert (text, wrap ("Reference: " .. Entity_Name_Of (event.attacker_civ) .. " attacked " ..
                                       Entity_Name_Of (event.defender_civ) .. " and plundered " ..
                                       Site_Name_Of (event.site) .. " under the control of " ..
-                                      Entity_Name_Of (event.site_civ) .. "\n"))
+                                      Entity_Name_Of (event.site_civ) .. "\n", left_margin))
                                 
           elseif event._type == df.history_event_creature_devouredst then
             --### caste
@@ -1516,7 +1526,7 @@ function Librarian ()
                                       HF_Name_Of (event.victim) .. " was devoured by " ..
                                       HF_Name_Of (event.eater) .. " " ..
                                       Entity_Name_Of (event.entity) .. " " ..
-                                      History_Location_Name_Of (event.site, event.region, event.layer) .. "\n"))
+                                      History_Location_Name_Of (event.site, event.region, event.layer) .. "\n", left_margin))
                                 
           elseif event._type == df.history_event_competitionst then
             local schedule = df.global.world.entities.all [event.entity].occasion_info.occasions [event.occasion].schedule [event.schedule]
@@ -1571,7 +1581,7 @@ function Librarian ()
                                       HF_Name_Of (event.target_hf) .. " because\n           " ..
                                       df.history_event_reason [event.reason] .. " of " ..
                                       HF_Name_Of (event.reason_id) .. " at " ..
-                                      History_Location_Name_Of (event.site, event.region, event.layer) .. "\n"))
+                                      History_Location_Name_Of (event.site, event.region, event.layer) .. "\n", left_margin))
               
           elseif event._type == df.history_event_written_content_composedst then
             local content = df.written_content.find (event.content)
@@ -1585,59 +1595,59 @@ function Librarian ()
             --### Reason
             
             table.insert (text, wrap ("Reference: " .. HF_Name_Of (event.histfig) .. " wrote " .. title ..
-                                      " at " .. History_Location_Name_Of (event.site, event.region, event.layer) .. "\n"))
+                                      " at " .. History_Location_Name_Of (event.site, event.region, event.layer) .. "\n", left_margin))
                                 
           else
-            table.insert (text, wrap ("Reference: *UNKNOWN* " .. tostring (event._type) .. " historical event information\n"))
+            table.insert (text, wrap ("Reference: *UNKNOWN* " .. tostring (event._type) .. " historical event information\n", left_margin))
           end
             
         else
-          table.insert (text, wrap ("Reference: Unknown historical event information (culled?)\n"))
+          table.insert (text, wrap ("Reference: Unknown historical event information (culled?)\n", left_margin))
         end
           
       elseif ref._type == df.general_ref_sitest then
-        table.insert (text, wrap ("Reference: Information about the " .. Site_Info_Of (ref.site_id) .. "\n"))
+        table.insert (text, wrap ("Reference: Information about the " .. Site_Info_Of (ref.site_id) .. "\n", left_margin))
           
       elseif ref._type == df.general_ref_historical_figurest then
         local hf = df.historical_figure.find (ref.hist_figure_id)
           
         if hf then
           table.insert (text, wrap ("Reference: Biography of the " .. df.global.world.raws.creatures.all [hf.race].name [0] ..
-                                    " " .. HF_Name_Of (ref.hist_figure_id) .. "\n"))
+                                    " " .. HF_Name_Of (ref.hist_figure_id) .. "\n", left_margin))
           
         else
-          table.insert (text, wrap ("Reference: Biography of unknown historical figure (culled?)\n"))
+          table.insert (text, wrap ("Reference: Biography of unknown historical figure (culled?)\n", left_margin))
         end
           
       elseif ref._type == df.general_ref_knowledge_scholar_flagst then
         for k, flag in ipairs (ref.knowledge.flag_data.flags_0) do  --  Iterates over all 32 bits regardless of enum value existence, so which "enum" we use doesn't matter
           if flag then
-            table.insert (text, wrap ("Reference: " .. knowledge [ref.knowledge.flag_type] [k] .. " knowledge\n"))
+            table.insert (text, wrap ("Reference: " .. knowledge [ref.knowledge.flag_type] [k] .. " knowledge\n", left_margin))
           end
         end
         
       elseif ref._type == df.general_ref_value_levelst then
         local strength, level = value_strengh_of (ref.level)
           
-        table.insert (text, wrap ('Reference: Moves values towards "' .. values [ref.value] [strength] .. '" = ' .. level .. "\n"))
+        table.insert (text, wrap ('Reference: Moves values towards "' .. values [ref.value] [strength] .. '" = ' .. level .. "\n", left_margin))
         
       elseif ref._type == df.general_ref_languagest then
-        table.insert (text, wrap ("Reference: Dictionary of the " .. df.global.world.raws.language.translations [ref.anon_1].name .. " language\n")) --###
+        table.insert (text, wrap ("Reference: Dictionary of the " .. df.global.world.raws.language.translations [ref.anon_1].name .. " language\n", left_margin)) --###
           
       elseif ref._type == df.general_ref_written_contentst then
-        table.insert (text, wrap ("Reference: Written Contents Titled " .. df.global.world.written_contents.all [ref.written_content_id].title .. "\n"))
+        table.insert (text, wrap ("Reference: Written Contents Titled " .. df.global.world.written_contents.all [ref.written_content_id].title .. "\n", left_margin))
          
       elseif ref._type == df.general_ref_poetic_formst then
-        table.insert (text, wrap ("Reference: Poetic Form " .. dfhack.TranslateName (df.global.world.poetic_forms.all [ref.poetic_form_id].name, true) .. "\n"))
+        table.insert (text, wrap ("Reference: Poetic Form " .. dfhack.TranslateName (df.global.world.poetic_forms.all [ref.poetic_form_id].name, true) .. "\n", left_margin))
       
       elseif ref._type == df.general_ref_musical_formst then
-        table.insert (text, wrap ("Reference: Musical Form " .. dfhack.TranslateName (df.global.world.musical_forms.all [ref.musical_form_id].name, true) .. "\n"))
+        table.insert (text, wrap ("Reference: Musical Form " .. dfhack.TranslateName (df.global.world.musical_forms.all [ref.musical_form_id].name, true) .. "\n", left_margin))
       
       elseif ref._type == df.general_ref_dance_formst then
-        table.insert (text, wrap ("Reference: Dance Form " .. dfhack.TranslateName (df.global.world.dance_forms.all [ref.dance_form_id].name, true) .. "\n"))
+        table.insert (text, wrap ("Reference: Dance Form " .. dfhack.TranslateName (df.global.world.dance_forms.all [ref.dance_form_id].name, true) .. "\n", left_margin))
       
       else
-        table.insert (text, wrap ("Reference: *UNKNOWN* " .. tostring (ref._type) .. " information\n"))
+        table.insert (text, wrap ("Reference: *UNKNOWN* " .. tostring (ref._type) .. " information\n", left_margin))
       end
     end
     
@@ -1651,8 +1661,8 @@ function Librarian ()
         end
       end
     
-      table.insert (text, wrap ("Original : " .. tostring (Bool_To_Yes_No (original) .. "\n")))
-      table.insert (text, wrap ("Copies   : " .. tostring (copies) .. "\n"))
+      table.insert (text, wrap ("Original: " .. tostring (Bool_To_Yes_No (original) .. "\n"), left_margin))
+      table.insert (text, wrap ("Copies: " .. tostring (copies) .. "\n", left_margin))
     end
     
     local hf = df.historical_figure.find (content.author)
@@ -1670,8 +1680,8 @@ function Librarian ()
       end
     end
     
-    table.insert (text, wrap ("Author   : " .. HF_Name_Of (content.author) .. "\n"))
-    table.insert (text, wrap ("Local    : " .. tostring (Bool_To_Yes_No (Local) .. "\n")))
+    table.insert (text, wrap ("Author: " .. HF_Name_Of (content.author) .. "\n", left_margin))
+    table.insert (text, wrap ("Local: " .. tostring (Bool_To_Yes_No (Local) .. "\n"), left_margin))
 
     return text
   end
@@ -1992,7 +2002,7 @@ function Librarian ()
   --============================================================
 
   function Ui:onHelp ()
-    self.subviews.pages:setSelected (6)
+    self.subviews.pages:setSelected (7)
     Pre_Help_Focus = Focus
     Focus = "Help"
   end
@@ -2000,72 +2010,62 @@ function Librarian ()
   --============================================================
 
   function Helptext_Main ()
-    local helptext =
-      {"Help/Info", NEWLINE,
-       "The Librarian provides a few views on the literary works in your stock.", NEWLINE,
-       "The help will list the main pages with their specific functions, while functionality present on all of", NEWLINE,
-       "them are summarized thereafter. The pages are:", NEWLINE,
-       "- The Main page contains every work in your fortress, although you can filter it on the category of the", NEWLINE,
-       "  work as well as to display only works that contain references to additional information. These controls", NEWLINE,
-       "  can be in effect concurrently.", NEWLINE,
-       "- The Science page contains an indication of all scientific topics covered in your fortress, as well as", NEWLINE,
-       "  a breakdown to actual works per scientific topic.", NEWLINE,
-       "- The Values page contains an indicator of all the types of value changing works in your fortress broken", NEWLINE,
-       "  down to the values in combination with the strength level target of the works. There is also a further", NEWLINE,
-       "  breakdown to the actual works", NEWLINE,
-       "- The Authors page contains the authors you have in your fortress and the works they have produced.", NEWLINE,
-       "- The Interactions page contains the works containing interactions (Vanilla: The Secret of Life and Death)", NEWLINE,
-       NEWLINE,
-       "- You switch between the different pages using the appropriate command keys, listed at each page.", NEWLINE,
-       "- You shift between the lists on each page using the DF left/right movement keys.", NEWLINE,
-       "- All pages provide some basic details on the currently selected work. All works present in your fortress", NEWLINE,
-       "  has a further list of the actual physical books (be they codices, quires, or scrolls) in your fortress", NEWLINE,
-       "  showing some basic flag information on them (Original/Copy, Forbidden, Dump, Trader, and In Inventory", NEWLINE,
-       "  flags). The Forbidden, Dump, and Trader flags can be manipulated when an actual book is in focus using", NEWLINE,
-       "  the command keys displayed above the list.", NEWLINE,
-       "- The actual book sections have a 'zoom to book' command allowing you to zoom to the location in your", NEWLINE,
-       "  fortress where the book is (e.g. to determine whether it will cause trouble if forbidden). Warning!", NEWLINE,
-       "  while it seems DF can be played from there, there are things known not to work properly. Return from", NEWLINE,
-       "  this view with the Ook! command (added on top of the bottom frame for reference) when done viewing.", NEWLINE,
-       "- The Science and Values pages also have a Remote Works list containing all works existing in the DF", NEWLINE,
-       "  world outside of your fortress, allowing you to find out which works you might want to 'acquire' via", NEWLINE,
-       "  raids...", NEWLINE,
-       "Version 0.19 2020-08-03", NEWLINE,
-       "Comments:", NEWLINE,
-       "- The term 'work' is used above for a reason. A 'work' is a unique piece of written information. Currently", NEWLINE,
-       "  it seems DF is restricted to a single 'work' per book/codex/scroll/quire, but the data structures allow", NEWLINE,
-       "  for compilations of multiple 'works' in a single volume, and there's nothing saying one volume could not", NEWLINE,
-       "  have a different set than another one.", NEWLINE,
-       "- Similar to the previous point, a single 'work' can technically contain references to multiple topics, and", NEWLINE,
-       "  a scientific information reference can technically contain data on multiple topics within the same", NEWLINE,
-       "  science category. Works referencing multiple topics, including a historical work that has snuck in a", NEWLINE,
-       "  values changing part in it, have been seen. Multiple scientific topics within the same category in", NEWLINE,
-       "  the same referencs has not been seen by the author, and probably isn't used (multiple references can be", NEWLINE,
-       "  used to the same effect).", NEWLINE,
-       "- The reason the Authors page doesn't list all the works of the authors is that the author of this script", NEWLINE,
-       "  hasn't been able to find it listed somewhere, and scouring the total list of works is expected to take too", NEWLINE,
-       "  much time in worlds with many works. (There's already a noteceable lag when changing scientific/values", NEWLINE,
-       "  changing topics in the author's world (> half a million works).", NEWLINE,
-       "- The reason the Trader flag is available for toggling is that the author has encountered lots of questing", NEWLINE,
-       "  and attacking visitors who leave books with that flag set behind, and it seems you can't move the book", NEWLINE,
-       "  when it is set. The attackers clearly aren't traders, so that flag being set is probably a bug.", NEWLINE,
-       "- Why is the command to return to The Librarian named 'Ook!'? 'l' and 'L' are used by DF, so a reference to", NEWLINE,
-       "  the Discworld Librarian was used. If that's definitely not funny, change the 'dont_be_silly' variable at", NEWLINE,
-       "  the beginning of this script to 'true'.", NEWLINE,
-       "Caveats:", NEWLINE,
-       "- The testing has been limited...", NEWLINE,
-       "- Some data structures are changing. Usage of such data has been skipped for the time being.", NEWLINE,
-       "- Only the Scientific and Values references are completely covered (anything missing is a bug or new data),", NEWLINE,
-       "  but the coverage of the rest is spotty, limited to what happens to be available in the author's fortress.", NEWLINE,
-       "  and what's there hasn't been subject to any touching up, so it provides the information in a crude format.", NEWLINE,
-       "- The Dump flag of artifact works can be set by The Librarian (and is displayed by DF when that has been done)", NEWLINE,
-       "  however, as DF doesn't allow the flag to be set normally and the author's fortress isn't playable, it hasn't", NEWLINE,
-       "  been tested whether those books are actually dumped.", NEWLINE,
-       "- The Hidden view brought up with zooming to books had issues with the up/down keys having side effects in the", NEWLINE,
-       "  form of additional movements, causing them to exit lists. While that has been worked around, any other issues", NEWLINE,
-       "  have not. It's known the DFHack naming function doesn't work, for instance."
-       }
-               
+    local helptext = [[
+Help/Info
+
+The Librarian provides a few views on the literary works in your stock.
+
+The help will list the main pages with their specific functions, while functionality present on all of them are summarized thereafter. The pages are:
+
+- The Main page contains every work in your fortress, although you can filter it on the category of the work as well as to display only works that contain references to additional information. These controls can be in effect concurrently.
+
+- The Science page contains an indication of all scientific topics covered in your fortress, as well as a breakdown to actual works per scientific topic.
+
+- The Values page contains an indicator of all the types of value changing works in your fortress broken down to the values in combination with the strength level target of the works. There is also a further breakdown to the actual works
+
+- The Authors page contains the authors you have in your fortress and the works they have produced.
+
+- The Interactions page contains the works containing interactions (Vanilla: The Secret of Life and Death)
+
+- You switch between the different pages using the appropriate command keys, listed at each page.
+
+- You shift between the lists on each page using the DF left/right movement keys.
+
+- All pages provide some basic details on the currently selected work. All works present in your fortress has a further list of the actual physical books (be they codices, quires, or scrolls) in your fortress showing some basic flag information on them (Original/Copy, Forbidden, Dump, Trader, and In Inventory flags). The Forbidden, Dump, and Trader flags can be manipulated when an actual book is in focus using the command keys displayed above the list.
+
+- The actual book sections have a 'zoom to book' command allowing you to zoom to the location in your fortress where the book is (e.g. to determine whether it will cause trouble if forbidden). This feature is for viewing only. Return from this view with the 'Ook!' command (added on top of the bottom frame for reference), or the LEAVESCREEN key (default is 'ESC') when done viewing.
+
+- The Science and Values pages also have a Remote Works list containing all works existing in the DF world outside of your fortress, allowing you to find out which works you might want to 'acquire' via raids...
+
+- You can use secondary scroll keys (default is '+-/*') to scroll the Detail box in all pages.
+
+Last Updated 2022-10-17
+
+Comments:
+
+- The term 'work' is used above for a reason. A 'work' is a unique piece of written information. Currently it seems DF is restricted to a single 'work' per book/codex/scroll/quire, but the data structures allow for compilations of multiple 'works' in a single volume, and there's nothing saying one volume could not have a different set than another one.
+
+- Similar to the previous point, a single 'work' can technically contain references to multiple topics, and a scientific information reference can technically contain data on multiple topics within the same science category. Works referencing multiple topics, including a historical work that has snuck in a values changing part in it, have been seen. Multiple scientific topics within the same category in the same referencs has not been seen by the author, and probably isn't used (multiple references can be used to the same effect).
+
+- The reason the Authors page doesn't list all the works of the authors is that the author of this script hasn't been able to find it listed somewhere, and scouring the total list of works is expected to take too much time in worlds with many works. (There's already a noteceable lag when changing scientific/values changing topics in the author's world (> half a million works).
+
+- The reason the Trader flag is available for toggling is that the author has encountered lots of questing and attacking visitors who leave books with that flag set behind, and it seems you can't move the book when it is set. The attackers clearly aren't traders, so that flag being set is probably a bug.
+
+- Why is the command to return to The Librarian named 'Ook!'? 'l' and 'L' are used by DF, so a reference to the Discworld Librarian was used. If that's definitely not funny, change the 'dont_be_silly' variable at the beginning of this script to 'true'.
+
+Caveats:
+
+- The testing has been limited...
+
+- Some data structures are changing. Usage of such data has been skipped for the time being.
+
+- Only the Scientific and Values references are completely covered (anything missing is a bug or new data), but the coverage of the rest is spotty, limited to what happens to be available in the author's fortress. And what's there hasn't been subject to any touching up, so it provides the information in a crude format.
+
+- The Dump flag of artifact works can be set by The Librarian (and is displayed by DF when that has been done) However, as DF doesn't allow the flag to be set normally and the author's fortress isn't playable, it hasn't been tested whether those books are actually dumped.
+
+- The Hidden view brought up with zooming to books had issues with the up/down keys having side effects in the form of additional movements, causing them to exit lists. While that has been worked around, any other issues have not. It's known the DFHack naming function doesn't work, for instance.
+
+]]           
    return helptext
   end
   
@@ -2107,12 +2107,14 @@ function Librarian ()
                                      key = keybindings.content_type.key,
                                      key_sep = '()'},
                              {text = " Content Type:                                 ",
-                              pen = COLOR_LIGHTBLUE},
+                              pen = COLOR_LIGHTBLUE}, NEWLINE,
                               {text = "",
                                      key = keybindings.reference_filter.key,
                                      key_sep = '()'},
                              {text = " Filter works without references:",
-                              pen = COLOR_LIGHTBLUE}},
+                              pen = COLOR_LIGHTBLUE}, NEWLINE,
+                              {text = "                                                Details",
+                               pen = COLOR_WHITE}},
                      frame = {l = 0, t = 1, y_align = 0}}
     
     Main_Page.Works_Total =
@@ -2150,19 +2152,20 @@ function Librarian ()
       
     Main_Page.Reference_Filter =
       widgets.Label {text = Bool_To_YN (Reference_Filter),
-                     frame = {l = 89, w = 1, t = 3, y_align = 0},
+                     frame = {l = 38, w = 1, t = 4, y_align = 0},
                      text_pen = COLOR_YELLOW}
       
     Main_Page.Details =
       widgets.Label {text = Produce_Details (nil),
-                     frame = {l = 54, t = 6, h = 20, y_align = 0},
+                     frame = {l = 48, t = 6, b = 12, yalign = 0},
                      auto_height = false,
-                     text_pen = COLOR_WHITE}
+                     text_pen = COLOR_WHITE,
+                     scroll_keys = widgets.SECONDSCROLL}
                      
     Main_Page.Book_List =
       widgets.List {view_id = "Books containting Work",
                     choices = {},
-                    frame = {l = 54, t = 32, yalign = 0},
+                    frame = {l = 48, b = 0, h = 1, yalign = 1},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2188,6 +2191,7 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Toggle Forbid Flag ",
                               pen = COLOR_LIGHTBLUE},
+                              NEWLINE,
                              {text = "",
                                      key = keybindings.dump_book.key,
                                      key_sep = '()'},
@@ -2199,18 +2203,20 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Toggle Trader Flag ",
                               pen = COLOR_LIGHTBLUE},
+                              NEWLINE,
                              {text = "",
                                      key = keybindings.zoom.key,
                                      key_sep = '()'},
-                             {text = " Zoom to book (return with 'O')",
-                              pen = COLOR_LIGHTBLUE}},
-                     frame = {l = 54, t = 28, y_align = 0},
+                             {text = " Zoom to book",
+                              pen = COLOR_LIGHTBLUE}
+                            },
+                     frame = {l = 48, b = 5, y_align = 0},
                      visible = false}
                      
     Main_Page.Book_Label =
-      widgets.Label {text = "Books: O/C = Original/Copy, F = Forbidden, D = Dump, T = Trader, I = In Inventory",
-                     frame = {l = 54, t = 30, y_align = 0},
-                     text_pen = COLOR_WHITE}
+      widgets.Label {text = wrap ("Flags (O:Original, C:Copy, F:Forbidden, D:Dump, T:Trader, I:In Inventory)", 48, 0),
+                     frame = {l = 48, b = 1, y_align = 0},
+                     text_pen = COLOR_GREY}
     
     Main_Page.Works_Total:setText (tostring (#Main_Page.Stock))
     Main_Page.Works_Listed:setText (tostring (#Main_Page.List.choices))
@@ -2254,24 +2260,29 @@ function Librarian ()
                                      key = keybindings.interactions.key,
                                      key_sep = '()'},
                              {text = " Interactions Page ",
-                              pen = COLOR_LIGHTBLUE}, NEWLINE, NEWLINE, NEWLINE,
-                             "Philosophy (0)", NEWLINE,
-                             "Philosophy (1)", NEWLINE,
-                             "Mathematics (2)", NEWLINE,
-                             "Mathematics (3)", NEWLINE,
-                             "History (4)", NEWLINE,
-                             "Astronomy (5)", NEWLINE,
-                             "Naturalist (6)", NEWLINE,
-                             "Chemistry (7)", NEWLINE,
-                             "Geography (8)", NEWLINE,
-                             "Medicine (9)", NEWLINE,
-                             "Medicine (10)", NEWLINE,
-                             "Medicine (11)", NEWLINE,
-                             "Engineering (12)", NEWLINE,
-                             "Engineering (13)"}, 
+                              pen = COLOR_LIGHTBLUE}
+                             }, 
                      frame = {l = 0, t = 1, y_align = 0}}
-    
     table.insert (sciencePage.subviews, Science_Page.Background)
+    
+    Science_Page.Matrix_Head =
+        widgets.Label {text = {"0", NEWLINE,
+                             "1", NEWLINE,
+                             "2", NEWLINE,
+                             "3", NEWLINE,
+                             "4", NEWLINE,
+                             "5", NEWLINE,
+                             "6", NEWLINE,
+                             "7", NEWLINE,
+                             "8", NEWLINE,
+                             "9", NEWLINE,
+                             "10", NEWLINE,
+                             "11", NEWLINE,
+                             "12", NEWLINE,
+                             "13"
+                             },
+                       frame = {l = 0, t = 25, h = 13, yalign = 0}}
+    table.insert (sciencePage.subviews, Science_Page.Matrix_Head)
     
     Science_Page.Matrix = {}
     Science_Page.Data_Matrix = Take_Science_Stock (Main_Page.Stock)
@@ -2283,41 +2294,65 @@ function Librarian ()
     
     Take_Remote_Stock ()
     
+    local science_matrix_text = {{text = "0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V"}, NEWLINE}
     for i = 0, 13 do  --  Haven't found an enum over the knowledge category range...
       Science_Page.Matrix [i] = {}
       
       for k = df.knowledge_scholar_flags_0._first_item, df.knowledge_scholar_flags_0._last_item do  --  Full bit range, rather than used bit range, but same for all...
         if check_flag ("knowledge_scholar_flags_" .. tostring (i), k) then
-          Science_Page.Matrix [i] [k] =
-            widgets.Label {text = Science_Character_Of (Science_Page.Data_Matrix, i, k),
-                           frame = {l = 18 + k * 2, w = 1, t = 5 + i, y_align = 0},
-                           text_pen = Science_Color_Of (Science_Page.Data_Matrix, i, k)}
-          table.insert (sciencePage.subviews, Science_Page.Matrix [i] [k])
+          table.insert(science_matrix_text, 
+            {text = Science_Character_Of (Science_Page.Data_Matrix, i, k) .. " ",
+             pen =  Science_Color_Of (Science_Page.Data_Matrix, i, k)
+            })
+          -- Science_Page.Matrix [i] [k] =
+            -- widgets.Label {text = Science_Character_Of (Science_Page.Data_Matrix, i, k),
+                           -- frame = {l = 3 + k * 2, t = 27 + i, w = 1, y_align = 0},
+                           -- text_pen = Science_Color_Of (Science_Page.Data_Matrix, i, k)}
         end
       end
-    end    
+      table.insert(science_matrix_text, NEWLINE)
+    end
+    Science_Page.Matrix_Text =
+      widgets.Label {text = science_matrix_text,
+                    frame = {l = 3, t = 24, w = 66, yalign = 0}}
+    table.insert (sciencePage.subviews, Science_Page.Matrix_Text)
     
     Science_Page.Background_2 =
-      widgets.Label {text = "Category  Scientific Topic                                                         Local Knowledge",
-                     frame = {l = 0, t = 21, y_align = 0}}
+      widgets.Label {text = "Category        Scientific Topic                Own             Remote",
+                     frame = {l = 0, t = 4, y_align = 0}}
                      
-    table.insert (sciencePage.subviews, Science_Page.Background_2)
+    table.insert (sciencePage.subviews, Science_Page.Background_2)    
 
     Science_Page.Background_3 =
-      widgets.Label {text = "Remote Knowledge",
-                     frame = {l = 83, t = 38, y_align = 0}}
+      widgets.Label {text = "Details",
+                     frame = {l = 48, t = 13, y_align = 0}}
                      
     table.insert (sciencePage.subviews, Science_Page.Background_3)
     
-    local category_list = {}
-    for i = 0, 13 do
-      table.insert (category_list, tostring (i))
-    end
+    local category_list = {
+      "(0)Philosophy ",
+      "(1)Philosophy",
+      "(2)Mathematics",
+      "(3)Mathematics",
+      "(4)History",
+      "(5)Astronomy",
+      "(6)Naturalist",
+      "(7)Chemistry",
+      "(8)Geography",
+      "(9)Medicine",
+      "(10)Medicine",
+      "(11)Medicine",
+      "(12)Engineering",
+      "(13)Engineering"
+    }
+    -- for i = 0, 13 do
+      -- table.insert (category_list, tostring (i))
+    -- end
     
     Science_Page.Topic_List =
       widgets.List {view_id = "Topic",
                     choices = category_list,  --  Placeholder
-                    frame = {l = 10, t = 23, h = 20, yalign = 0},
+                    frame = {l = 16, t = 6, h = 15, w = 31, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2327,22 +2362,23 @@ function Librarian ()
     Science_Page.Category_List =
       widgets.List {view_id = "Category",
                     choices = category_list,
-                    frame = {l = 4, w = 2, h = 20, t = 23, yalign = 0},
+                    frame = {l = 0, t = 6, w = 15, h = 15, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
                     on_select = self:callback ("show_science_topic")}
 
     Science_Page.Details =
-      widgets.Label {text = Produce_Details (nil),
-                     frame = {l = 82, t = 1, h = 20, y_align = 0},
+      widgets.Label{text = Produce_Details (nil),
+                     frame = {l = 48, t = 15, h = 8, yalign = 0},
                      auto_height = false,
-                     text_pen = COLOR_WHITE}
+                     text_pen = COLOR_WHITE,
+                     scroll_keys = widgets.SECONDSCROLL}
                      
     Science_Page.Book_List =
       widgets.List {view_id = "Books containting Work",
                     choices = {},
-                    frame = {l = 1, t = 49, yalign = 0},
+                    frame = {l = 0, b = 0, h = 1, yalign = 1},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2352,7 +2388,7 @@ function Librarian ()
     Science_Page.Own_List =
       widgets.List {view_id = "Own",
                     choices = category_list,  --  Placeholder
-                    frame = {l = 83, t = 23, h = 15, yalign = 0},
+                    frame = {l = 48, t = 6, h = 8, w = 15, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2362,7 +2398,7 @@ function Librarian ()
     Science_Page.Remote_List =
       widgets.List {view_id = "Remote",
                     choices = category_list,  --  Placeholder
-                    frame = {l = 83, t = 40, h = 15, yalign = 0},
+                    frame = {l = 64, t = 6, h = 8, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2389,15 +2425,15 @@ function Librarian ()
                              {text = "",
                                      key = keybindings.zoom.key,
                                      key_sep = '()'},
-                             {text = " Zoom to book (return with 'O')",
+                             {text = " Zoom to book",
                               pen = COLOR_LIGHTBLUE}},
-                     frame = {l = 1, t = 45, y_align = 0},
+                     frame = {l = 0, b = 3, h = 4, w = 48, yalign = 1},
                      visible = false}
                      
     Science_Page.Book_Label =
-      widgets.Label {text = "Books: O/C = Original/Copy, F = Forbidden, D = Dump, T = Trader, I = In Inventory",
-                     frame = {l = 1, t = 47, y_align = 0},
-                     text_pen = COLOR_WHITE}
+      widgets.Label {text = wrap ("Flags (O:Original, C:Copy, F:Forbidden, D:Dump, T:Trader, I:In Inventory)", screen_width - 48),
+                     frame = {l = 0, b = 1, h = 2, w = 48, yalign = 1},
+                     text_pen = COLOR_GREY}
     
     table.insert (sciencePage.subviews, Science_Page.Category_List)
     table.insert (sciencePage.subviews, Science_Page.Topic_List)
@@ -2450,38 +2486,44 @@ function Librarian ()
                               pen = COLOR_YELLOW},
                              {text = "1 2 3",
                               pen = COLOR_GREEN},
-                             {text = "  Strength        Own"}},
+                             {text = "  Strength         Own             Remote"}},
                      frame = {l = 0, t = 1, y_align = 0}}
+    
+
     
     table.insert (valuesPage.subviews, Values_Page.Background)
     
-    Values_Page.Background_2 =
-      widgets.Label {text = "Remote",
-                     frame = {l = 47, t = 21, y_align = 0}}
-                     
-    table.insert (valuesPage.subviews, Values_Page.Background_2)
-    
     local values_background = {}
     
+    value_matrix_text = {}
     for i, value in ipairs (df.value_type) do
       if i ~= df.value_type.NONE then
         Values_Page.Matrix [i] = {}
         table.insert (values_background, df.value_type [i])
-      
+        value_row_text = {{text = df.value_type [i] .. string.rep (" ", 16 - string.len (df.value_type [i]))}}
         for k = -3, 3 do
-          Values_Page.Matrix [i] [k] =
-            widgets.Label {text = Science_Character_Of (Values_Page.Data_Matrix, i, k),
-                           frame = {l = 22 + k * 2, w = 1, t = 6 + i, y_align = 0},
-                           text_pen = Science_Color_Of (Values_Page.Data_Matrix, i, k)}
-          table.insert (valuesPage.subviews, Values_Page.Matrix [i] [k])
+          -- Values_Page.Matrix [i] [k] =
+            -- widgets.Label {text = Science_Character_Of (Values_Page.Data_Matrix, i, k),
+                           -- frame = {l = 22 + k * 2, w = 1, t = 6 + i, y_align = 0},
+                           -- text_pen = Science_Color_Of (Values_Page.Data_Matrix, i, k)}
+          -- table.insert (valuesPage.subviews, Values_Page.Matrix [i] [k])
+          table.insert(value_row_text, {text = Science_Character_Of (Values_Page.Data_Matrix, i, k) .. " ",
+                                        pen = Science_Color_Of (Values_Page.Data_Matrix, i, k)})
         end
+        -- table.insert (value_matrix_text, NEWLINE)
+        table.insert (value_matrix_text, {text = value_row_text})
       end
     end
     
+    -- Values_Page.Matrix_Text = 
+      -- widgets.Label {text = value_matrix_text,
+                     -- frame = {l = 16, t = 6, w = 14, yalign = 0}}
+    -- table.insert (valuesPage.subviews, Values_Page.Matrix_Text)
+    
     Values_Page.Values_List =
       widgets.List {view_id = "Values",
-                    choices = values_background,
-                    frame = {l = 0, t = 6, yalign = 0},
+                    choices = value_matrix_text,
+                    frame = {l = 0, t = 6, b = 6, w = 32, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2512,14 +2554,15 @@ function Librarian ()
     
     Values_Page.Details =
       widgets.Label {text = Produce_Details (nil),
-                     frame = {l = 0, t = 40, h = 20, y_align = 0},
+                     frame = {l = 48, t = 15, h = 8, y_align = 0},
                      auto_height = false,
-                     text_pen = COLOR_WHITE}
+                     text_pen = COLOR_WHITE,
+                     scroll_keys = widgets.SECONDSCROLL}
                      
     Values_Page.Book_List =
       widgets.List {view_id = "Books containting Work",
                     choices = {},
-                    frame = {l = 1, t = 66, yalign = 0},
+                    frame = {l = 0, b = 0, h = 1, yalign = 1},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2529,7 +2572,7 @@ function Librarian ()
     Values_Page.Own_List =
       widgets.List {view_id = "Own",
                     choices = category_list,  --  Placeholder
-                    frame = {l = 47, t = 6, h = 15, yalign = 0},
+                    frame = {l = 48, t = 6, h = 8, w = 15, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2538,10 +2581,16 @@ function Librarian ()
 
     table.insert (valuesPage.subviews, Values_Page.Own_List)
     
+    Values_Page.Background_2 =
+      widgets.Label {text = "Details",
+                     frame = {l = 48, t = 13, y_align = 0}}
+                     
+    table.insert (valuesPage.subviews, Values_Page.Background_2)
+    
     Values_Page.Remote_List =
       widgets.List {view_id = "Remote",
                     choices = category_list,  --  Placeholder
-                    frame = {l = 47, t = 23, h = 15, yalign = 0},
+                    frame = {l = 64, t = 6, h = 8, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2558,6 +2607,7 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Toggle Forbid Flag ",
                               pen = COLOR_LIGHTBLUE},
+                              NEWLINE,
                              {text = "",
                                      key = keybindings.dump_book.key,
                                      key_sep = '()'},
@@ -2569,20 +2619,21 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Toggle Trader Flag ",
                               pen = COLOR_LIGHTBLUE},
+                              NEWLINE,
                              {text = "",
                                      key = keybindings.zoom.key,
                                      key_sep = '()'},
-                             {text = " Zoom to book (return with 'O')",
+                             {text = " Zoom to book",
                               pen = COLOR_LIGHTBLUE}},
-                     frame = {l = 1, t = 62, y_align = 0},
+                     frame = {l = 0, b = 3, yalign = 1},
                      visible = false}
                      
     table.insert (valuesPage.subviews, Values_Page.Book_Order_Label)
     
     Values_Page.Book_Label =
-      widgets.Label {text = "Books: O/C = Original/Copy, F = Forbidden, D = Dump, T = Trader, I = In Inventory",
-                     frame = {l = 1, t = 64, y_align = 0},
-                     text_pen = COLOR_WHITE}
+      widgets.Label {text = wrap ("Flags (O:Original, C:Copy, F:Forbidden, D:Dump, T:Trader, I:In Inventory)", screen_width - 48),
+                     frame = {l = 0, b = 1, w = 48, yalign = 1},
+                     text_pen = COLOR_GREY}
     
     table.insert (valuesPage.subviews, Values_Page.Book_Label)
 
@@ -2621,7 +2672,7 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Interactions Page ",
                               pen = COLOR_LIGHTBLUE}, NEWLINE, NEWLINE,
-                             {text = "Authors"}},
+                             {text = "Authors             Works                       Details"}},
                      frame = {l = 0, t = 1, y_align = 0}}
     
     table.insert (authorsPage.subviews, Authors_Page.Background)
@@ -2636,14 +2687,15 @@ function Librarian ()
     
     Authors_Page.Details =
       widgets.Label {text = Produce_Details (nil),
-                     frame = {l = 65, t = 24, h = 20, y_align = 0},
+                     frame = {l = 48, t = 6, b = 12, y_align = 0},
                      auto_height = false,
-                     text_pen = COLOR_WHITE}
+                     text_pen = COLOR_WHITE,
+                     scroll_keys = widgets.SECONDSCROLL}
                      
     Authors_Page.Book_List =
       widgets.List {view_id = "Books containting Work",
                     choices = {},
-                    frame = {l = 65, t = 50, yalign = 0},
+                    frame = {l = 48, b = 0, h = 1, yalign = 1},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2653,19 +2705,17 @@ function Librarian ()
     Authors_Page.Works_List =
       widgets.List {view_id = "Works",
                     choices = {},
-                    frame = {l = 1, t = 24, h = 15, yalign = 0},
+                    frame = {l = 20, t = 6, b = 5, w = 27, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
                     active = false,
                     on_select = self:callback ("show_authors_details")}
-    
-    table.insert (authorsPage.subviews, Authors_Page.Works_List)
-    
+
     Authors_Page.Authors_List =
       widgets.List {view_id = "Authors",
                     choices = authors_list,
-                    frame = {l = 1, t = 6, h = 15, yalign = 0},
+                    frame = {l = 0, t = 6, b = 5, w = 20, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2673,14 +2723,15 @@ function Librarian ()
                     on_select = self:callback ("show_authors_titles")}
     
     table.insert (authorsPage.subviews, Authors_Page.Authors_List)
+    table.insert (authorsPage.subviews, Authors_Page.Works_List)
     table.insert (authorsPage.subviews, Authors_Page.Details)
     table.insert (authorsPage.subviews, Authors_Page.Book_List)
     
-    Authors_Page.Background_2 =
-      widgets.Label {text = {{text = " Works                                                           Details"}},
-                     frame = {l = 0, t = 22, y_align = 0}}
+    -- Authors_Page.Background_2 =
+      -- widgets.Label {text = {{text = " "}},
+                     -- frame = {l = 23, t = 4, y_align = 0}}
     
-    table.insert (authorsPage.subviews, Authors_Page.Background_2)
+    -- table.insert (authorsPage.subviews, Authors_Page.Background_2)
     
     Authors_Page.Book_Order_Label =
       widgets.Label {text = {{text = "",
@@ -2688,6 +2739,7 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Toggle Forbid Flag ",
                               pen = COLOR_LIGHTBLUE},
+                             NEWLINE,
                              {text = "",
                                      key = keybindings.dump_book.key,
                                      key_sep = '()'},
@@ -2699,20 +2751,21 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Toggle Trader Flag ",
                               pen = COLOR_LIGHTBLUE},
+                             NEWLINE,
                              {text = "",
                                      key = keybindings.zoom.key,
                                      key_sep = '()'},
-                             {text = " Zoom to book (return with 'O')",
+                             {text = " Zoom to book",
                               pen = COLOR_LIGHTBLUE}},
-                     frame = {l = 65, t = 46, y_align = 0},
+                     frame = {l = 48, b = 5, yalign = 1},
                      visible = false}
                      
     table.insert (authorsPage.subviews, Authors_Page.Book_Order_Label)
     
     Authors_Page.Book_Label =
-      widgets.Label {text = "Books: O/C = Original/Copy, F = Forbidden, D = Dump, T = Trader, I = In Inventory",
-                     frame = {l = 65, t = 48, y_align = 0},
-                     text_pen = COLOR_WHITE}
+      widgets.Label {text = wrap ("Flags (O:Original, C:Copy, F:Forbidden, D:Dump, T:Trader, I:In Inventory)", 48),
+                     frame = {l = 48, b = 1, yalign = 1},
+                     text_pen = COLOR_GREY}
     
     table.insert (authorsPage.subviews, Authors_Page.Book_Label)
 
@@ -2776,7 +2829,7 @@ function Librarian ()
     Interactions_Page.Works_List =
       widgets.List {view_id = "Works",
                     choices = interactions_list,
-                    frame = {l = 1, t = 6, h = 15, yalign = 0},
+                    frame = {l = 1, t = 6, h = 15, w = 47, yalign = 0},
                     text_pen = COLOR_DARKGREY,
                     cursor_pen = COLOR_YELLOW,
                     inactive_pen = COLOR_GREY,
@@ -2786,13 +2839,14 @@ function Librarian ()
     if #Interactions_Page.Interactions == 0 then
       Interactions_Page.Details =
         widgets.Label {text = " ",
-                       frame = {l = 65, t = 24, h = 20, y_align = 0},
+                       frame = {l = 48, t = 5, y_align = 0},
                        auto_height = false,
-                       text_pen = COLOR_WHITE}
+                       text_pen = COLOR_WHITE,
+                       scroll_keys = widgets.SECONDSCROLL}
     else
       Interactions_Page.Details =
         widgets.Label {text = Produce_Details (Interactions_Page.Interactions [Interactions_Page.Works_List.selected] [2]),
-                       frame = {l = 65, t = 24, h = 20, y_align = 0},
+                       frame = {l = 48, t = 5, y_align = 0},
                        auto_height = false,
                        text_pen = COLOR_WHITE}
     end
@@ -2812,6 +2866,7 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Toggle Forbid Flag ",
                               pen = COLOR_LIGHTBLUE},
+                             NEWLINE,
                              {text = "",
                                      key = keybindings.dump_book.key,
                                      key_sep = '()'},
@@ -2823,20 +2878,21 @@ function Librarian ()
                                      key_sep = '()'},
                              {text = " Toggle Trader Flag ",
                               pen = COLOR_LIGHTBLUE},
+                             NEWLINE,
                              {text = "",
                                      key = keybindings.zoom.key,
                                      key_sep = '()'},
-                             {text = " Zoom to book (return with 'O')",
+                             {text = " Zoom to book",
                               pen = COLOR_LIGHTBLUE}},
-                     frame = {l = 65, t = 46, y_align = 0},
+                     frame = {l = 48, b = 5, yalign = 1},
                      visible = false}
                      
     table.insert (interactionsPage.subviews, Interactions_Page.Book_Order_Label)
     
     Interactions_Page.Book_Label =
-      widgets.Label {text = "Books: O/C = Original/Copy, F = Forbidden, D = Dump, T = Trader, I = In Inventory",
-                     frame = {l = 65, t = 48, y_align = 0},
-                     text_pen = COLOR_WHITE}
+      widgets.Label {text = wrap ("Flags (O:Original, C:Copy, F:Forbidden, D:Dump, T:Trader, I:In Inventory)", 48),
+                     frame = {l = 48, b = 1, yalign = 1},
+                     text_pen = COLOR_GREY}
     
     table.insert (interactionsPage.subviews, Interactions_Page.Book_Label)
 
@@ -2848,12 +2904,19 @@ function Librarian ()
 
     local hiddenPage = widgets.Panel {
       subviews = {}}
+      
+    Hidden_Page.Help_Text = 
+      widgets.Label {text = " * This screen is view-only * ",
+                     frame = {l = 0, t = 0}}
+    table.insert (hiddenPage.subviews, Hidden_Page.Help_Text)
            
     Help_Page.Main = 
       widgets.Label
-        {text = Helptext_Main (),
+        {text = wrap (Helptext_Main (), 3, 0),
          frame = {l = 1, t = 1, yalign = 0},
-         visible = true}
+         text_pen = COLOR_GREY,
+         visible = true
+        }
     
     helpPage = widgets.Panel
       {subviews = {Help_Page.Main}}
@@ -2894,7 +2957,20 @@ function Librarian ()
 
     for i = df.knowledge_scholar_flags_0._first_item, df.knowledge_scholar_flags_0._last_item do  --  Don't care about the actual flag. Will iterate over all "bits" anyway.
       if check_flag ("knowledge_scholar_flags_" .. tostring (index - 1), i) then
-        table.insert (list, knowledge [index - 1] [i])
+        knowledge_text = knowledge [index - 1] [i]
+        
+        shortened_topic_name = knowledge_text:sub (knowledge_text:find (", ") + 2, knowledge_text:len ())
+        if shortened_topic_name:find (", ") ~= nil then -- shorten more
+          shortened_topic_name = shortened_topic_name:sub (shortened_topic_name:find (", ") + 2, shortened_topic_name:len ())
+        end
+        
+        if i < 10 then
+          number = tostring(i)
+        else
+          number = string.char(i - 10 + 65) -- start from 'A'
+        end
+        knowledge_numbered_topic_text = "(" .. number .. ")" .. shortened_topic_name
+        table.insert (list, knowledge_numbered_topic_text)
       end
     end
    
@@ -3019,7 +3095,26 @@ function Librarian ()
     
     if keys.LEAVESCREEN then
       if Focus == "Hidden" then
-        persist_screen:sendInputToParent (keys)
+        -- persist_screen:sendInputToParent (keys)
+        -- let LEAVESCREEN key do the same as "Ook" key
+        if Pre_Hiding_Focus == "Main" then
+          self.subviews.pages:setSelected (1)
+          
+        elseif Pre_Hiding_Focus == "Science" then
+          self.subviews.pages:setSelected (2)
+        
+        elseif Pre_Hiding_Focus == "Values" then
+          self.subviews.pages:setSelected (3)
+        
+        elseif Pre_Hiding_Focus == "Authors" then
+          self.subviews.pages:setSelected (4)
+        
+        elseif Pre_Hiding_Focus == "Interactions" then
+          self.subviews.pages:setSelected (5)
+        end
+          
+        Focus = Pre_Hiding_Focus
+        self.transparent = false
       
       elseif Focus == "Help" then
         if Pre_Help_Focus == "Main" then
@@ -3608,7 +3703,7 @@ function Librarian ()
         
         Pre_Hiding_Focus = Focus
         Focus = "Hidden"      
-        self.subviews.pages:setSelected (5)
+        self.subviews.pages:setSelected (6)
         self.transparent = true
       end
       
@@ -3690,7 +3785,7 @@ function Librarian ()
         
         Pre_Hiding_Focus = Focus
         Focus = "Hidden"      
-        self.subviews.pages:setSelected (5)
+        self.subviews.pages:setSelected (6)
         self.transparent = true
       end
       
@@ -3775,20 +3870,22 @@ function Librarian ()
         
         Pre_Hiding_Focus = Focus
         Focus = "Hidden"      
-        self.subviews.pages:setSelected (5)
+        self.subviews.pages:setSelected (6)
         self.transparent = true
       end
       
     elseif Focus == "Hidden" then
-      if keys [df.interface_key [df.interface_key.SECONDSCROLL_DOWN]] then  --### Special case because of weird side effects when sending the whole list through.
-        persist_screen:sendInputToParent ({[df.interface_key [df.interface_key.SECONDSCROLL_DOWN]] = true})
+      -- It should do nothing: don't send any input to the game
+      -- if keys [df.interface_key [df.interface_key.widgets.SECONDSCROLL_DOWN]] then  --### Special case because of weird side effects when sending the whole list through.
+        -- persist_screen:sendInputToParent ({[df.interface_key [df.interface_key.widgets.SECONDSCROLL_DOWN]] = true})
         
-      elseif keys [df.interface_key [df.interface_key.SECONDSCROLL_UP]] then  --### Special case because of weird side effects when sending the whole list through.
-        persist_screen:sendInputToParent ({[df.interface_key [df.interface_key.SECONDSCROLL_UP]] = true})
+      -- elseif keys [df.interface_key [df.interface_key.widgets.SECONDSCROLL_UP]] then  --### Special case because of weird side effects when sending the whole list through.
+        -- persist_screen:sendInputToParent ({[df.interface_key [df.interface_key.widgets.SECONDSCROLL_UP]] = true})
         
-      else
-        persist_screen:sendInputToParent (keys)
-      end
+      -- else
+        -- persist_screen:sendInputToParent (keys)
+        
+      -- end
     end
 
     self.super.onInput (self, keys)
